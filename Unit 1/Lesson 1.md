@@ -37,5 +37,5 @@ a java program from scratch.
 When you are finished, upload your project to Codepost. Don't forget to check the
 results of the tests codepost will run and edit your program.
 
-This (very short) assignment is worth **10** points towards your final grade.
+This (very short) assignment is worth **10 points** towards your final grade.
 

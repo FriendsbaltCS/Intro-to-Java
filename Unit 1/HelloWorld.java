@@ -22,3 +22,5 @@ public class HelloWorld {
 	} //Curly braces end the body of a method.
 	
 } // Just like methods, the body of a class ends with a curly brace.
+
+//Please delete all of these comments before you submit!
