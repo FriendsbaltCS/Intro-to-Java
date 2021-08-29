@@ -15,7 +15,8 @@ To begin, please follow these steps:
 (A good idea would be in a Google Drive folder or flash drive so that you can access
 it at school as well).
 
-2. ownload the file `HelloWorld.java` above and save it to your working directory.
+2. Download the file `HelloWorld.java` from the Unit 1 repository and save it to
+your working directory.
 
 3. Open a command prompt and navigate to the working directory by typing
 `cd "path-to-working-directory"` (with your filepath of course).
