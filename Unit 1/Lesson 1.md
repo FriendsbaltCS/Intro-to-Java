@@ -7,7 +7,7 @@ In this lesson we work together to create your first program in Java.
 Please be sure to follow all instructions on MyFriends to install the
 newest JDK on your home machine.
 
-##Initial Setup##
+## Initial Setup ##
 
 To begin, please follow these steps:
 
