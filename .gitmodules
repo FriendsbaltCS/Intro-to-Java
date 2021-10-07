@@ -1,0 +1,6 @@
+[submodule "MadLibs"]
+	path = MadLibs
+	url = https://github.com/jahAtFriends/MadLibs.git
+[submodule "ArrayCipher"]
+	path = ArrayCipher
+	url = https://github.com/jahAtFriends/ArrayCipher
