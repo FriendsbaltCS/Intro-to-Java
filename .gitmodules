@@ -4,3 +4,6 @@
 [submodule "ArrayCipher"]
 	path = ArrayCipher
 	url = https://github.com/jahAtFriends/ArrayCipher
+[submodule "OneInAMillion"]
+	path = OneInAMillion
+	url = https://github.com/jahAtFriends/OneInAMillion.git
