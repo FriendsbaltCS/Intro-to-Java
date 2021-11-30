@@ -9,4 +9,4 @@
 	url = https://github.com/jahAtFriends/OneInAMillion.git
 [submodule "EyeChart"]
 	path = EyeChart
-	url = C:/Program Files/Git/EyeChart
+	url = https://github.com/jahAtFriends/EyeChart.git
