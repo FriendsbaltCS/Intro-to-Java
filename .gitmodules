@@ -7,3 +7,6 @@
 [submodule "OneInAMillion"]
 	path = OneInAMillion
 	url = https://github.com/jahAtFriends/OneInAMillion.git
+[submodule "EyeChart"]
+	path = EyeChart
+	url = C:/Program Files/Git/EyeChart
